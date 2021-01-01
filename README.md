@@ -9,7 +9,7 @@ Here is the idea: I believe Bitcoin is a chaotic system of second order. It mean
 
 MATERIAL AND METHOD:
 Instead of losing my time guessing the future, I only focus on historical prices. BUY/SELL orders are based on strict rules. These rules are dependent on the number of days (today included) we look in the past and the proportion we BUY/SELL:
-- If today Bitcoin's price is higher than all previous daily prices I SELL a proportion of my Bitcoin
-- If today Bitcoin's price is lower than all previous daily prices I BUY with a proportion of my Money
+- If today Bitcoin's price is HIGHER than previous daily prices I SELL a proportion of my Bitcoin
+- If today Bitcoin's price is LOWER than previous daily prices I BUY with a proportion of my Money
 
 ![alt text](https://github.com/VicCGI/bitcoin/blob/main/Schema_Algo.PNG?raw=true)
