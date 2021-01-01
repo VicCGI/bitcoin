@@ -1,5 +1,5 @@
 # bitcoin
-Dash App on Binder
+Test Dash App on Binder using Jupyter Notebook
 
 CONCLUSION: 
 The goal of this interactive app is to evaluate the performance of a very simple trading algorithm. After playing with its various parameters you will see that the algorithm is very performant when volatility increases. The idea can be used in practice to limit the risks associated with order fancy algorithms trading in parallel (diversification)
